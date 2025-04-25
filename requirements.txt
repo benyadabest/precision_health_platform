@@ -1,0 +1,14 @@
+hospital_pro_patient_facing_app_sdk==0.2.0
+foundry_sdk==2.1.0
+python-dotenv
+streamlit
+openai
+uvicorn
+twilio
+elevenlabs
+pandas
+fastapi
+foundry_client
+ngrok
+python-multipart
+websockets
